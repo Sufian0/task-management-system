@@ -1,0 +1,11 @@
+# Ignore compiled binaries, dependencies, and IDE files
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+vendor/
+.idea/
+.vscode/
+
